@@ -14,19 +14,31 @@ This project demonstrates GUI development, timers, and interactive buttons in Py
 
 ---
 
-## Screenshots
+## Screenshot
 
-<img width="894" height="426" alt="stopwatch screenshot" src="https://github.com/user-attachments/assets/a6c119a2-85a2-4a4c-98d4-35c8d022f43a" />
-
+<img width="894" height="426" alt="stopwatch screenshot" src="https://github.com/user-attachments/assets/ee6206ad-427d-4f04-805f-10d0e5e73399" />
 
 
 ---
 
-## Installation
+## Clone and Run
 
-1. Make sure you have **Python 3** installed.  
-2. Install **PyQt5** if not already installed:
+1. **Clone the repository**:
 
 ```bash
-pip install PyQt5
+git clone https://github.com/your-username/stopwatch.git
+Navigate to the project folder:
 
+bash
+Copy code
+cd stopwatch
+Install dependencies (PyQt5):
+
+bash
+Copy code
+pip install PyQt5
+Run the application:
+
+bash
+Copy code
+python stopwatch.py
