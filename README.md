@@ -30,6 +30,5 @@ git clone https://github.com/your-username/stopwatch.git
 
 
 Install dependencies (PyQt5):
-bash
 pip install PyQt5
 
