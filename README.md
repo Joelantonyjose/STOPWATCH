@@ -1,4 +1,4 @@
-# PyQt Stopwatch
+# PyQt5 Stopwatch
 
 A simple **stopwatch application** built using **Python and PyQt5**.  
 This project demonstrates GUI development, timers, and interactive buttons in PyQt.
