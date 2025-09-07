@@ -30,12 +30,3 @@ This project demonstrates GUI development, timers, and interactive buttons in Py
 ```bash
 pip install PyQt5
 
-Clone this repository:
-
-git clone <your-repo-url>
-
-
-Run the application:
-
-python stopwatch.py
-
